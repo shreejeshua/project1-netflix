@@ -1,0 +1,663 @@
+.h{
+    color: rgb(229, 9, 20);
+    margin-left: 70px;
+    font-size: x-large;
+    margin-top: 37px;
+    margin-left: 167px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    
+   
+}
+.box1{
+    width: 100%;
+    height: 849px;
+    border: solid 2px black;
+    background-image: url("../html_works/images/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  
+    background-size: cover;
+    background-size: 110%;
+    -webkit-text-size-adjust: 100%;
+    background-image: -webkit-image-set("100%");
+    border-bottom: 10px solid rgb(30, 29, 29);
+ 
+ 
+   
+}
+body{
+    margin: 0%;
+}
+   button {
+    font: inherit;
+    background: rgb(229, 9, 20);
+    color: rgb(255, 255, 255);
+    margin-top: -52px;
+    margin-left: 1267px;
+    padding: 10px;
+    border-radius: 8px;
+    padding-left: 22px;
+    padding-right: 18px;
+    padding-top: 7PX;
+    float: left;
+       
+}
+.s2{
+    margin-top: -51px;
+    margin-left: 1126px;
+    padding: 10px;
+    border-radius: 8px;
+    padding-left: 34px;
+    padding-right: 18px;
+    padding-top: 7PX;
+    background-color: transparent;
+    color: white;
+    float: left;
+}
+
+.row1{
+    margin-top: 20px;
+}
+.row{
+
+}
+.para1{
+    margin-top: 263px;
+    margin-left: 346px;
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    font-family: sans-serif;
+    margin-right: 225px;
+    padding-right: 38px;
+    float: right;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+
+ 
+
+.p1{
+    margin-left: 516px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+    margin-top: -6px;
+    margin-right: 522px;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+
+h3{
+    margin-left: 403px;
+    color: white;
+    margin-top: 4px;
+    margin-right: 373px;
+    float: right;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    font-family: sans-serif;
+}
+.e1{
+    width: 336px;
+    height: 53px;
+    margin-left: 521px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.555);
+    padding-right: 48px;
+    padding-left: 12px;
+}
+
+.b1{ 
+    
+       
+background: rgb(229, 9, 20);
+color: rgb(255, 255, 255);
+margin-top: 227px;
+width: 203px;
+height: 61px;
+margin-right: 89px;
+float: left;
+padding-right: 25px;
+margin-left: 930px;
+margin-top: -60px;
+font-family: inherit;
+font-size: x-large;
+}
+img{
+  width: 10%;
+  height: 30%;
+  margin-top: 14px;
+  margin-left: 146px;
+  padding: 10px;
+  border-radius: 8px;
+  padding-left: 25px;
+  padding-right: 18px;
+  padding-top: 7PX;
+}
+   
+.box2{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    margin-top: -18px;
+    margin: 0%;
+    border-bottom: 10px solid rgb(30, 29, 29);
+}  
+.s4{
+   
+    color: white;
+    margin-top: 209px;
+    float: left;
+    margin-left: 207px;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+p{
+    margin-left: 207px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+    margin-top: -6px;
+    margin-right: 522px;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: sans-serif;
+    float: left
+}
+.image{
+    width: 36%;
+    height: 64%;
+    margin-top: -275px;
+    margin-left: 799px;
+    padding: 10px;
+    border-radius: 8px;
+    padding-left: 25px;
+    padding-right: 18px;
+    padding-top: 7PX;
+}
+.video1{
+    margin-left: 872px;
+    margin-top: -336px;
+    float: left;
+}
+.box3{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    border-bottom: 10px solid rgb(30, 29, 29);
+}
+.img1{
+    width: 39%;
+    height: 54%;
+    margin-top: 134px;
+    margin-left: -378px;
+    padding: 10px;
+    border-radius: 8px;
+    padding-left: 25px;
+    padding-right: 18px;
+    padding-top: 7PX;
+}
+.class1
+{
+    color:blue ;
+    margin-left: 434px;
+    margin-top: 511px;
+    float: left;
+}
+
+.class2
+{
+    color: blue;
+    width: 3rem;
+    height: 3rem;
+    outline: 2px solid rgba(0, 0, 0, 1);
+    outline-offset: -2px;
+    display: block;
+    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif) center center no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    content: '';
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin-left: 580px;
+}
+
+.smallbox {
+    width: 318px;
+    height: 89px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid rgb(30, 29, 29); 
+    margin-top: -61px;
+    margin-left: 318px;
+    border-radius: 13px;
+}
+.img2{
+    width: 21%;
+    height: 75%;
+    margin-top: 4px;
+    margin-left: -1139px;
+    padding: 10px;
+    border-radius: 8px;
+    padding-left: 23px;
+    padding-right: 18px;
+    padding-top: 7PX;
+}
+h4{
+    color: white;
+    margin-left: 115px;
+    float: left;
+    margin-top: -43px;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+h2{
+
+    color: white;
+    margin-top: -313px;
+    margin-left: 803px;
+    float: right;
+    float: left;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+.para4{
+   
+    color: white;
+    margin-top: -167px;
+    margin-left: 803px;
+    float: right;
+   
+    font-family: sans-serif;
+    float: left;
+    font-size: 1.5rem;
+    font-weight: 400;
+    
+}
+.box4
+{
+    width: 100%;
+    height: 600px;
+    border: solid 2px black;
+    background-color: black;
+    border-bottom: 10px solid rgb(30, 29, 29);
+}
+.device-img{
+    width: 40%;
+    height: 418px;
+    margin-left: 742px;
+    margin-top: 105px;
+  
+}
+.video2{
+    margin-left: 869px;
+    margin-top: -493px;
+    float: unset;
+    width: 26%;
+    height: 410px;
+    float: left;
+}
+.c1{
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    margin-left: 200px;
+    margin-top: -308px;
+    float: left;
+   
+}
+.para{
+    margin-left: 199px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+    margin-top: -227px;
+    margin-right: 522px;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: sans-serif;
+    float: left;
+}
+.box5{
+    width: 100%;
+    height: 600px;
+    border: solid 2px black;
+    background-color: black;
+    border-bottom: 10px solid rgb(30, 29, 29);
+}
+.cimage{
+    width: 40%;
+    height: 404px;
+    margin-left: 131px;
+    margin-top: 75px;
+   
+   
+}
+.a1{
+    color: white;
+    margin-top: -344px;
+    margin-left: 803px;
+    float: right;
+    float: left;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+.ss{
+    margin-left: 809px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+    margin-top: -162px;
+    margin-right: 152px;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: sans-serif;
+    float: left;
+}
+.box6{
+    width: 100%;
+    height: 950px;
+    border: solid 2px black;
+    background-color: black;
+    border-bottom: 10px solid rgb(30, 29, 29);
+}
+.faq
+{
+    margin-top: 71px;
+    margin-left: 357px;
+    font-size: 3rem;
+    font-weight: 900;
+}
+.button1{
+    width: 1119px;
+    height: 85px;
+    margin-left: -923px;
+    margin-top: 162px;
+    padding: 34px;
+    padding-left: 50px;
+    text-align: left;
+    background-color:  rgb(30, 29, 29);
+    font-size: x-large;
+    font-family: sans-serif;
+    border-radius: 0%;
+    border: none
+}
+.button1:hover{
+    background-color: gray;
+}
+.ddd1{
+
+        margin-top: -7px;
+        margin-left: 893px;
+        width: 32px;
+        height: 32px;
+}
+svg{
+    margin-top: -34px;
+    margin-left: 998px;
+    width: 38px;
+    height: 43px;
+    float: left;
+}
+.ss1{
+    overflow: hidden;
+    visibility: visible;
+    max-height: 0px;
+    padding: 0px 1.5rem;
+    transition: all 0.25s cubic-bezier(0.5, 0, 0.1, 1) 0s;
+    text-align: left;
+    background-color: rgb(202, 24, 24);
+    color: rgb(255, 255, 255);
+}
+.list1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    margin: 0 0 0.5rem 0;
+
+}
+
+.button2{
+    width: 1119px;
+    height: 88px;
+    margin-left: 169px;
+    margin-top: -19px;
+    padding: 34px;
+    padding-left: 50px;
+    text-align: left;
+    background-color:  rgb(30, 29, 29);
+    font-family: inherit;
+  
+    font-family: inherit;
+    font-size: inherit;
+    font-size: x-large;
+    font-family: sans-serif;
+    border-radius: 0%;
+    border: none;
+    
+}
+.button3{
+    width: 1119px;
+    height: 88px;
+    margin-left: 169px;
+    margin-top: -19px;
+    padding: 34px;
+    padding-left: 50px;
+    text-align: left;
+    background-color:  rgb(30, 29, 29);
+  
+    font-family: inherit;
+    font-size: inherit;
+    font-size: x-large;
+    font-family: sans-serif;
+    border-radius: 0%;
+    border: none;
+}
+.button4{
+    width: 1119px;
+    height: 88px;
+    margin-left: 169px;
+    margin-top: -19px;
+    padding: 34px;
+    padding-left: 50px;
+    text-align: left;
+    background-color:  rgb(30, 29, 29);
+    font-family: inherit;
+   
+    font-size: inherit;
+    font-size: x-large;
+    font-family: sans-serif;
+    border-radius: 0%;
+    border: none;
+
+}
+.button5{
+    width: 1119px;
+    height: 88px;
+    margin-left: 169px;
+    margin-top: -19px;
+    padding: 34px;
+    padding-left: 50px;
+    text-align: left;
+    background-color:  rgb(30, 29, 29);
+    font-family: inherit;
+    font-size: inherit;
+    font-size: x-large;
+    font-family: sans-serif;
+    border-radius: 0%;
+    border: none;
+
+}
+.button6{
+    width: 1119px;
+    height: 88px;
+    margin-left: 169px;
+    margin-top: -19px;
+    padding: 34px;
+    padding-left: 50px;
+    text-align: left;
+    background-color:  rgb(30, 29, 29);
+    font-family: inherit;
+    font-size: inherit;
+    font-size: x-large;
+    font-family: sans-serif;
+    border-radius: 0%;
+    border: none;
+   
+    
+
+}
+.button2:hover{
+    background-color: rgb(90, 86, 86);
+}
+.button3:hover{
+    background-color: rgb(90, 86, 86);
+}
+.button4:hover{
+    background-color: rgb(90, 86, 86);
+}
+.button5:hover{
+    background-color: rgb(90, 86, 86);
+}
+.button6:hover{
+    background-color: rgb(90, 86, 86);
+}
+.bu1{
+    margin-left: -75px;
+    margin-top: 45px;
+    float: right;
+}
+.ready{
+    margin-left: 510px;
+    float: left;
+}
+.box7{
+    width: 100%;
+    height: 600px;
+    border: solid 2px black;
+    background-color: black;
+   
+}
+.call{
+  
+    color: rgba(255, 255, 255, 0.7);
+    border-radius: 0.125rem;
+    margin-top: 81px;
+    margin-left: 185px;
+}
+a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.default-ltr-cache-qinrsz{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+.default-ltr-cache-jfs0pt e3p1e960{
+    margin-right: 0rem;
+    margin-left: 0rem;
+    row-gap: 0.75rem;
+    min-width: 18.375rem;
+}
+.default-ltr-cache-10faoj e1b5pq7i0{
+    --grid-layout-gap: 0.75rem;
+    --grid-item--min-width: 18.375rem;
+}
+
+.default-ltr-cache-17c2btp{
+    
+    
+    padding-left: 137px;
+    
+}
+.default-ltr-cache-17c2btp{
+    color: rgba(255, 255, 255, 0.7);
+    border-radius: 0.125rem;
+    box-sizing: border-box;
+    -webkit-flex: auto;
+    -ms-flex: auto;
+    flex: auto;
+    margin-bottom: 0.75rem;
+    -webkit-box-flex-wrap: unset;
+    -webkit-flex-wrap: unset;
+    -ms-flex-wrap: unset;
+    flex-wrap: unset;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 0;
+    margin-block-start: 0rem;
+    margin-block-end: 0rem;
+    margin: 0rem;
+    padding: 0rem;
+    -webkit-text-decoration: underline;
+    text-decoration: underline;
+    font-style: normal;
+    list-style-type: none;
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+.linkk{
+    padding-left: 142px;
+}
+.cla1{
+
+}
+.cla2{
+    margin-top: -11px;
+}
+.cla3{
+    
+    margin-top: -17px
+}
+.cla4{
+    margin-top: -7px;
+}
+.cla5{
+    
+    margin-top: -16px;
+}
+.cla6{
+    margin-top: -16px;
+}
+.sw{
+   
+        margin-top: 37px;
+        margin-left: 171px;
+        padding: 10px;
+        border-radius: 8px;
+        padding-left: 34px;
+        padding-right: 18px;
+        padding-top: 7PX;
+        background-color: transparent;
+        color: white;
+        float: left;
+    }
+   .net1{
+    margin-left: -118px;
+    margin-top: 96px;
+    margin-right: 522px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: sans-serif;
+    float: left;
+    color:rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+    
