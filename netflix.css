@@ -9,10 +9,10 @@
    
 }
 .box1{
-    width: 100%;
+    width: 1514px;
     height: 849px;
     border: solid 2px black;
-    background-image: url("../netflix website/images/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-image: url("./images/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_small.jpg");
   
     background-size: cover;
     background-size: 110%;
@@ -24,7 +24,11 @@
    
 }
 body{
-    margin: 0%;
+    
+    margin: 0;
+
+    
+    
 }
    button {
     font: inherit;
@@ -557,20 +561,23 @@ svg{
     color: rgba(255, 255, 255, 0.7);
     border-radius: 0.125rem;
     margin-top: 81px;
-    margin-left: 185px;
+    margin-left: 140px;
 }
 a{
     color: rgba(255, 255, 255, 0.7);
 }
 .default-ltr-cache-qinrsz{
     padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
+   
+    margin-left: -44px
 }
 .default-ltr-cache-jfs0pt e3p1e960{
     margin-right: 0rem;
     margin-left: 0rem;
     row-gap: 0.75rem;
     min-width: 18.375rem;
+    
+    margin-left: -44px
 }
 .default-ltr-cache-10faoj e1b5pq7i0{
     --grid-layout-gap: 0.75rem;
